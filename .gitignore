@@ -1,0 +1,14 @@
+*.pyc
+*idea/*
+__pycache__/*
+db.sqlite
+profiles/*
+session_data/*
+session_data_source/*
+build/*
+dist*/*
+*.spec
+*.ini
+*.xml
+*.zip
+*.log
